@@ -1,3 +1,7 @@
+
+Best books (also by topics): https://pythonbooks.org/for-intermediate-python-programmers/language-mastery/
+
+---
 * Wrap lines to 79 chars at most
 
 * Blank lines separate classes & functions & large blocksinside functions
@@ -13,3 +17,4 @@
 * UTF-8 or plain ASCII for encoding
 
 Reference: [PEP_8](https://www.python.org/dev/peps/pep-0008/)
+
