@@ -7,6 +7,7 @@ This repo hosts all the learning resources that I used in course work and past p
 
 Now and then, you don't want to run stuff on your weak laptop, try remote development on clusters from [VSCode](https://code.visualstudio.com/docs/remote/ssh). 
  ### About me
+I am an aspiring medical scientist with an interest in neurologic and spinal neuro-degenerative white-matter diseases including immune-mediated inflammatory disease (Multiple Sclerosis), Lou Gehrig's disease, HIV-Associated Neurocognitive Disorders (HAND), and Acute hemorrhagic leukoencephalitis (AHLE).
 
  ### Why do I work on diffusion magnetic resonance imaging?
 
