@@ -1,6 +1,8 @@
 Block = multiple of 32 of threads (so 256 threads/block is typical)
 
-CUDA framwork for Python kids:
+Comparison of CUDA framwork for Python kids: \n
+https://gist.github.com/lazarusA/07892bdb17d87efd0252ae6d1bf5b9a5 \n
+
 * CuPy (instead of numpy)
 * numba:
    - easy to install and implement
