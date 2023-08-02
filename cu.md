@@ -13,4 +13,5 @@ CUDA framwork for Python kids:
 
 
 numba < cython < numpy < numba_parrallel << tf_2.0
+
 numba < pyCUDA
