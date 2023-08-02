@@ -12,6 +12,6 @@ CUDA framwork for Python kids:
    - can be used to run code on a variety of platforms, including Intel, AMD, NVIDIA, and ATI chips.
 
 
-numba < cython < numpy < numba_parrallel << tf_2.0
+numba < cython < numpy < numba_parrallel << tf_2.0 \n
 
 numba < pyCUDA
