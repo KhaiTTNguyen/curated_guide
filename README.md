@@ -11,7 +11,6 @@ I am an aspiring medical scientist with an interest in neuro-degenerative white-
 With the imaging method developed, the far reaching goal of my research is to assist with therapeutic efforts for patients experiencing neuro-immunological diseases.
 
  ### Why do I work on diffusion magnetic resonance imaging?
-Non-invasive avenue for brain imaging. Else, how would you look inside?
 
  ### Advantages of diffusion MRI
  Histology is the gold standard for evaluating pathology induced from white matter diseases. However, histologic evaluation is not ethically justified in human. This is where the advantage of MRI noninvasive neuroimaging shines. 
