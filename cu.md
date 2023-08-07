@@ -17,3 +17,5 @@ https://gist.github.com/lazarusA/07892bdb17d87efd0252ae6d1bf5b9a5
 numpy < numbaJIT ~ cython ~ CuPy < numpy (mixed results) < numba_parrallel << tf_2.0 
 
 numba < pyCUDA
+
+pyTorch?
